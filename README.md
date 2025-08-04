@@ -2,7 +2,7 @@
 ## Overview
 Here we propose EMST, an interpretable multi-modal spatial transcriptomic data augmentation model that uses histopathological images to learn representations for gene expression data. We first extract morphological features of spots using a pre-trained large biological model, and then integrate morphological and gene features through a co-attention-based multi-modal fusion module. The fused features undergo an interpretable contrastive learning model to complete feature learning and enhance original gene expression data.<br>
 <div align="center">
-  <img src="https://github.com/bioszhr/EMST/main/results/figures/Figure 1.pdf">
+  <img src="[https://github.com/bioszhr/EMST/main/results/figures/Figure 1.pdf](https://github.com/bioszhr/EMST/blob/main/results/EMST.png)">
 </div>
 ## Requirements
 Please ensure that all the libraries below are successfully installed:<br>
