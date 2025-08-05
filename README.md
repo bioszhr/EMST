@@ -9,7 +9,7 @@ Please ensure that all the libraries below are successfully installed:<br>
 -torch-geometric 1.7.0<br>
 -faiss 1.7.0<br>
 ## Run EMST on the example data.
-If you wanna run **the breast invasive carcinoma (BRCA)** dataset,you should change the relevant path to your own file path, and run ***EMST.ipynb***.<br>
+If you wanna run **the breast invasive carcinoma (BRCA)** dataset,you should change the relevant path to your own file path, and run ***BRCA.ipynb***.<br>
 ### Output
 The output results will be stored in the dir ***results***.
 ### Datasets
